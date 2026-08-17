@@ -1,2 +1,3 @@
-# shoulder-fatigue-recovery-prediction
-Thesis for Master of Science in Artificial Intelligence at Open Universiteit '26-'27
+# :weight_lifting_woman::zzz: Fatigue and recovery prediction during shoulder exercises
+> Kyana Marckx
+
